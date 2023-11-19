@@ -24,9 +24,9 @@ Users can engage with the project in the following ways:
 * Read stories and anecdotes that provide insights into Finland's rich cultural heritage.
 * Participate in interactive elements to test their knowledge or virtually explore specific regions.
 
-![Finnish Landscape](/"C:\Users\marvi\OneDrive\Desktop\personale\1.png")
-![Finnish Landscape](/"C:\Users\marvi\OneDrive\Desktop\personale\2.png")
-![Finnish Landscape](/"C:\Users\marvi\OneDrive\Desktop\personale\3.png")
+![Finnish Landscape](/1.png)
+![Finnish Landscape](/2.png)
+![Finnish Landscape](/3.png)
 
 ## Data sources and Methods
 
